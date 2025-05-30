@@ -133,37 +133,3 @@ If you find this repository helpful:
 ## 📝 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Kubernetes Certification Voucher (UpTo 38% OFF) 🎉
-
-As part of our commitment to helping the DevOps community save money on Kubernetes Certifications, we continuously update the latest voucher codes from the Linux Foundation
-
-> [!IMPORTANT]
-> 🚀 Kubernetes Certification aspirants can **save 30%** today using code **DCUBE30** at https://kube.promo/devops. It is a limited-time offer from the Linux Foundation.
-
-The following are the best bundles to **save 38% (up to $788)** with code **DCUBE30**
-
-- KCNA + KCSA + CKA + CKAD + CKS ($788 Savings): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
-- CKA + CKAD + CKS Exam bundle ($528 Savings): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
-- CKA + CKS Bundle ($355 Savings) [kube.promo/bundle](https://kube.promo/bundle)
-- KCNA + CKA ( $288 Savings) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
-- KCSA + CKS Exam Bundle ($229 Savings) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
-- KCNA + KCSA Exam Bundle ($203 Savings) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
-
-## Real-World DevOps Projects
-
-1. [Jenkins HA Setup On AWS](https://github.com/techiescamp/devops-projects/tree/main/01-jenkins-setup)
-2. [Implementing Service Discovery Using Consul](https://github.com/techiescamp/devops-projects/tree/main/02-consul-sevice-discovery)
-3. [Deploying a Scalable Java Application on AWS](https://github.com/techiescamp/devops-projects/tree/main/03-scalable-java-app)
-4. [Deploy Prometheus Observability stack using Docker Compose](https://github.com/techiescamp/devops-projects/tree/main/04-prometheus-observability-stack)
-5. [Design and Automate AWS VPC Creation Using Terraform](https://github.com/techiescamp/devops-projects/tree/main/05-aws-vpc-design-and-automation)
-6. [AWS Client to Site VPN Setup](https://github.com/techiescamp/devops-projects/tree/main/06-aws-client-vpn-setup)
-7. [Selft Hosted Pritunl VPN Setup on AWS](https://github.com/techiescamp/devops-projects/tree/main/07-pritunl-vpn-setup)
-
-> All the DevOps Real World Projects ideas and planned projects are Documented in [Real World DevOps Projects](https://devopscube.com/devops-projects/) Blog
-
-## DevOps Project Videos
-
-All the project videos will be available on Youtube. Following are the published Videos
-
-1. [Jenkins HA Setup on AWS Using Autoscaling Group Using Packer, Ansible, and Terraform](https://www.youtube.com/watch?v=GLMJhF_cZ5M)
